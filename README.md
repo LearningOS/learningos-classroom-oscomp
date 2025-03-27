@@ -4,6 +4,8 @@
 ## 训练邀请：OS kernel设计与实现
 - [点击：创建自己的内核赛道训练repo](https://classroom.github.com/a/END-WGn8)
 - [点击：查看在线榜单](http://learningos.cn/oscomptest-grading)
+  1. 测试逻辑：每测例1分，同时通过四种架构测试才能得到该测例的分数
+  1. 排名逻辑：按总分排名，总分排名相同则按git commit的push时间排名 
 
 本测试涵盖riscv64、loongarch64、aarch64、x86_64四种架构测例，测例内容基本一致。
 
